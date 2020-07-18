@@ -1,0 +1,50 @@
+.container{
+    width: 90%;
+    margin:2rem auto;
+}
+header{
+    background-color: #333;
+}
+header nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+}
+nav ul{
+    margin-left: 0rem;
+    margin-right: 0rem ;
+    margin-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    padding-top: 0rem;
+    margin-bottom: 0rem;
+    padding:15px 10px 10px;
+    align-self:center;
+}
+h3{
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+header ul a{
+    color: white;
+    text-shadow: none;
+    list-style: none;
+    background-image: none;
+}
+header ul a:hover{
+    color:rgb(109, 152, 172);
+}
+.logo{
+    text-shadow:none;
+    background-image: none
+}
+.logo h3{
+    color:rgb(109, 152, 172);
+}
+.navLi{
+    display: inline-block;
+    margin-right:1rem;
+}
